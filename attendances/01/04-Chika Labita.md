@@ -15,4 +15,4 @@ Terdapat 3 Model layanan Cloud Computing :
     oleh service provider.
 
 Layanan Gratis Oracle Cloud :
-Cloud Computing memiliki orace cloud free tier, dimana memiliki tawaran berupa Always Free Cloud Services serta 30-Day free https://github.com/ChikaLabita/cloud3c.git
+Cloud Computing memiliki orace cloud free tier, dimana memiliki tawaran berupa Always Free Cloud Services serta 30-Day free
